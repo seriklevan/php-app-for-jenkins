@@ -21,7 +21,7 @@ section.congratulations {
     right: 50%;
     bottom: 0;
     border-right: 6px solid #ace;
-    background-color: #79b;
+    background-color: #70b;
     background-image: -webkit-gradient(linear, left top, right top, from(#79b), to(#79b));
     background-image: -webkit-linear-gradient(left, #9bd, #79b);
     background-image: -moz-linear-gradient(left, #9bd, #79b);
